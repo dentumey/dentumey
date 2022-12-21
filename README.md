@@ -4,8 +4,6 @@ Hey everyone 👋 I am Dentumey. Here I collect some of my ![Xcode](https://img.
 
 📫 my Telegram: @dentumey
 
-📫 my email: dentumey@gmail.com
-
 <!---
 dentumey/dentumey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
