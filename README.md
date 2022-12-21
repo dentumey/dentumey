@@ -1,4 +1,4 @@
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=white)
 
 Hey everyone 👋 I am Dentumey. Here I collect some of my #Xcode projects built in #Swift
 
