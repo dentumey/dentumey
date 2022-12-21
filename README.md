@@ -1,4 +1,4 @@
-Hey everyone 👋 I am Dentumey. Here I collect some of my #Xcode projects built in ![swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=pink)
+Hey everyone 👋 I am Dentumey. Here I collect some of my ![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=pink) projects built in ![swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=pink)
 
 💞️ I’m looking to collaborate on Xcode practicing
 📫 my Telegram: @dentumey
