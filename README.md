@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Swift 5
 - 💞️ I’m looking to collaborate on Xcode practicing
-- 📫 Instagram: dentumey
+- 📫 Telegram: dentumey
 
 <!---
 dentumey/dentumey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
