@@ -1,4 +1,4 @@
-[<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+#F05138
 
 Hey everyone 👋 I am Dentumey. Here I collect some of my #Xcode projects built in #Swift
 
